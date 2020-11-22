@@ -2,7 +2,11 @@
 
 ## **How do I enable modlogs?**
 
-You can enable invite logging automatically by creating a channel titled `tritan-logs`. As long as Tritan has Administrator permissions it will create the channel and start logging automatically. Please note that at this time, you are unable to change the name of the logging channels.
+You can enable invite logging automatically by running the following command in your logging channel:  
+  
+`*setlogs`
+
+ As long as Tritan has Administrator permissions it will create the channel and start logging automatically. Please note that at this time, you are unable to change the name of the logging channels.
 
 ![](.gitbook/assets/screen-shot-2020-10-05-at-7.18.32-pm.png)
 
